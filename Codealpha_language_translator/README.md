@@ -34,7 +34,6 @@ App link here:
 2. Install required libraries:
 pip install -r requirements.txt
 3. Run the application:
-
 streamlit run Application.py
 
 ## 📸 How to Use
