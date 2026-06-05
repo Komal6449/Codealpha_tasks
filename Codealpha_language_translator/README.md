@@ -25,17 +25,33 @@ AI Language Translation Tool is a web application built using Python and Streaml
 - Streamlit
 - Googletrans (Google Translate API)
 
-## 📂 Project Structure
-
-LanguageTranslator/
-│
-├── Application.py
-├── requirements.txt
-└── README.md
-
 ## ⚙️ Installation
+1. Install Python
+2. Install required libraries:
+pip install -r requirements.txt
+3. Run the application:
 
-1. Clone the repository
+streamlit run Application.py
 
-```bash
-git clone https://github.com/Komal6449/Codealpha_tasks/tree/main/Codealpha_language_translator
+## 📸 How to Use
+1. Open the application in your browser.
+2. Enter the text you want to translate.
+3. Select the source language.
+4. Select the target language.
+5. Click the **Translate** button.
+6. The translated text will be displayed instantly.
+7. Copy and use the translated text as needed.
+
+## 🎯 Learning Outcomes
+Through this project, I learned:
+- Python programming fundamentals
+- Building web applications using Streamlit
+- Integrating third-party APIs
+- Handling user input and output
+- Working with multiple language translations
+- Creating interactive user interfaces
+- Deploying applications using Streamlit Community Cloud
+- Using GitHub for version control and project hosting
+
+## 👨‍💻 Developed By
+-Komal Kesarwani
