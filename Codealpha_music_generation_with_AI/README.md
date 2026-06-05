@@ -4,7 +4,7 @@
 An AI-powered music generation system built using Python, TensorFlow, LSTM Neural Networks, Music21, and Streamlit. The model learns musical patterns from MIDI files and generates new music compositions automatically.
 
 ## 🚀 Live Demo
-Add your Streamlit app link here:
+App link here:
 [Open AI Music Generator](https://codealphatasks-esoz9gefg9osa2krwvlxe8.streamlit.app/)
 
 ## 📌 Features
