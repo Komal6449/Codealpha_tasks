@@ -1,5 +1,7 @@
 # 🎵 Music Generation with AI
 
+##📌 Project Overview
+
 An AI-powered music generation system built using Python, TensorFlow, LSTM Neural Networks, Music21, and Streamlit. The model learns musical patterns from MIDI files and generates new music compositions automatically.
 
 ## 🚀 Live Demo
