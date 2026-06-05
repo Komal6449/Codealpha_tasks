@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 AI Language Translation Tool is a web application built using Python and Streamlit. It allows users to translate text from one language to another using Google Translate API integration.
 
+## 🚀 Live Demo
+App link here:
+[Open AI Language Translation tool](https://codealphatasks-appamvhg3y7urwmqgztzqky.streamlit.app/)
+
 ## 🚀 Features
 - Translate text between multiple languages
 - Simple and user-friendly interface
