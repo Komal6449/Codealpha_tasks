@@ -25,6 +25,7 @@ AI FAQ Chatbot is a simple web application built using Python, Streamlit, Pandas
 1. Install Python
 2. Install required libraries :-
 pip install -r requirements.txt
+
 3.Run the application :-
 streamlit run Chatbot.py
 
