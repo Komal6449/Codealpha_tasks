@@ -4,6 +4,9 @@
 
 AI FAQ Chatbot is a simple web application built using Python, Streamlit, Pandas, and Scikit-learn. The chatbot answers user questions related to Artificial Intelligence by finding the most relevant answer from a predefined FAQ dataset.
 
+## 🚀 Live Demo
+App link here:
+[Open AI FAQ Chatbot](https://codealphatasks-263xr246adabhxmsvnjhwy.streamlit.app/)
 ## 🚀 Features
 
 - Interactive chatbot interface
